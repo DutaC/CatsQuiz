@@ -73,7 +73,7 @@
             </RadioGroup>
 
             <ImageView
-                android:layout_width="0dp"
+                android:layout_width="@dimen/layout_width_0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="2"
                 android:contentDescription="@string/cat_hiss_256"
@@ -131,7 +131,7 @@
             </RadioGroup>
 
             <ImageView
-                android:layout_width="0dp"
+                android:layout_width="@dimen/layout_width_0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="2"
                 android:contentDescription="@string/cat_paper_256"
@@ -189,7 +189,7 @@
             </RadioGroup>
 
             <ImageView
-                android:layout_width="0dp"
+                android:layout_width="@dimen/layout_width_0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="2"
                 android:contentDescription="@string/cat_pirate_256"
@@ -220,7 +220,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:orientation="vertical"
-                android:padding="8dp">
+                android:padding="@dimen/padding_linear_layout_1">
 
                 <CheckBox
                     android:id="@+id/answer_4_1"
@@ -249,7 +249,7 @@
             </LinearLayout>
 
             <ImageView
-                android:layout_width="0dp"
+                android:layout_width="@dimen/layout_width_0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="2"
                 android:contentDescription="@string/cat_lady_256"
@@ -292,7 +292,6 @@
                     android:layout_height="wrap_content"
                     android:text="@string/answer_5_2" />
 
-
                 <RadioButton
                     android:id="@+id/answer_5_3"
                     android:layout_width="wrap_content"
@@ -308,7 +307,7 @@
             </RadioGroup>
 
             <ImageView
-                android:layout_width="0dp"
+                android:layout_width="@dimen/layout_width_0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="2"
                 android:contentDescription="@string/cat_sleep_256"
@@ -338,7 +337,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:orientation="vertical"
-                android:padding="8dp">
+                android:padding="@dimen/padding_linear_layout_1">
 
                 <CheckBox
                     android:id="@+id/answer_6_1"
@@ -367,7 +366,7 @@
             </LinearLayout>
 
             <ImageView
-                android:layout_width="0dp"
+                android:layout_width="@dimen/layout_width_0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="2"
                 android:contentDescription="@string/cat_food_256"
@@ -402,7 +401,7 @@
                 android:inputType="text" />
 
             <ImageView
-                android:layout_width="0dp"
+                android:layout_width="@dimen/layout_width_0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="2"
                 android:contentDescription="@string/cat_purr_256"

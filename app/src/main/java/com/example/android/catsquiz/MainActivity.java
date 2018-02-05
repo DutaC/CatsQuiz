@@ -105,16 +105,16 @@ public class MainActivity extends AppCompatActivity {
         } else {
             calculateScore();
             if (score >= 0 && score <= 3) {
-                Toast.makeText(this, getString(R.string.your_score_message) +  " " +score + ". " + getString(R.string.score_0_3_message), Toast.LENGTH_LONG).show();
+                Toast.makeText(this, getString(R.string.your_score_message) + score + getString(R.string.score_0_3_message), Toast.LENGTH_LONG).show();
             }
             if (score >= 4 && score <= 6) {
-                Toast.makeText(this, getString(R.string.your_score_message) + " " + score + ". " + getString(R.string.score_4_6_message), Toast.LENGTH_LONG).show();
+                Toast.makeText(this, getString(R.string.your_score_message) + score + getString(R.string.score_4_6_message), Toast.LENGTH_LONG).show();
             }
             if (score >= 7 && score <= 9) {
-                Toast.makeText(this, getString(R.string.your_score_message) + " " + score + ". " + getString(R.string.score_7_9_message), Toast.LENGTH_LONG).show();
+                Toast.makeText(this, getString(R.string.your_score_message) + score + getString(R.string.score_7_9_message), Toast.LENGTH_LONG).show();
             }
             if (score == 10) {
-                Toast.makeText(this, getString(R.string.your_score_message) + " " + score + ". " + getString(R.string.score_10_message), Toast.LENGTH_LONG).show();
+                Toast.makeText(this, getString(R.string.your_score_message) + score + getString(R.string.score_10_message), Toast.LENGTH_LONG).show();
             }
         }
     }

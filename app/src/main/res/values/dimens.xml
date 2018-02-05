@@ -10,4 +10,5 @@
     <dimen name="layout_margin_buttons">8dp</dimen>
     <dimen name="padding_title_textview">4dp</dimen>
     <dimen name="ikonka_text_size">12sp</dimen>
+    <dimen name="layout_width_0dp">0dp</dimen>
 </resources>

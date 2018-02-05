@@ -35,11 +35,11 @@
     <string name="title">CATS QUIZ \nHow much do you know about cats?</string>
     <string name="edit_text_hint_1">Answer</string>
     <string name="reset">Reset</string>
-    <string name="your_score_message">Your score is</string>
-    <string name="score_0_3_message">You completely failed this quiz!</string>
-    <string name="score_4_6_message">You can do better. Keep trying!</string>
-    <string name="score_7_9_message">You\'re almost a cats\'expert.</string>
-    <string name="score_10_message">Purr-fect! You are a cats expert.</string>
+    <string name="your_score_message">"Your score is "</string>
+    <string name="score_0_3_message">". You completely failed this quiz!"</string>
+    <string name="score_4_6_message">". You can do better. Keep trying!"</string>
+    <string name="score_7_9_message">". You\'re almost a cats\'expert."</string>
+    <string name="score_10_message">". Purr-fect! You are a cats expert."</string>
     <string name="notification_message">Please answer all the questions.</string>
     <string name="cat_hiss_256">cat_hiss_256</string>
     <string name="cat_lady_256">cat_lady_256</string>
