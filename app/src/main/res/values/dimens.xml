@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_text_view">8dp</dimen>
+    <dimen name="padding_linear_layout_1">8dp</dimen>
+    <dimen name="padding_linear_layout_2">16dp</dimen>
+    <dimen name="margin_bottom_linear_layout_1">16dp</dimen>
+    <dimen name="margin_bottom_title">16dp</dimen>
+    <dimen name="text_size_1">18sp</dimen>
+    <dimen name="text_size_2">16sp</dimen>
+    <dimen name="layout_margin_buttons">8dp</dimen>
+    <dimen name="padding_title_textview">4dp</dimen>
+    <dimen name="ikonka_text_size">12sp</dimen>
+</resources>
